@@ -1,3 +1,3 @@
 <?php
 
-require_one include __DIR__ . "/src/SampleSingle.php";
+require_once __DIR__ . "/src/SampleSingle.php";

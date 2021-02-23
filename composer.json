@@ -16,7 +16,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"DarioMinds\\Reference\\": "src/"
+			"Classes\\": "src/"
 		},
 		"classmap":[
 			"src/"

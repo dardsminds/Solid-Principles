@@ -1,6 +1,6 @@
 <?php
 
-namespace DarioMinds\Reference;
+namespace Classes;
 /**
  * Circle class
  */

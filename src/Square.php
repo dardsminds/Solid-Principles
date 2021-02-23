@@ -1,6 +1,6 @@
 <?php 
 
-namespace DarioMinds\Reference;
+namespace Classes;
 
 /**
  * Square Class
