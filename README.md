@@ -4,7 +4,7 @@ SOLID is the acronym for the first five object-oriented design; (S) Single-respo
 ## Single-Responsibility Principle
 A class should have only one job for itself, if the job appears outside of its scope then create a new class for that
 
-src/SampleSingle.php
+*src/SampleSingle.php*
 ```php
 
 use Classes\Circle;
